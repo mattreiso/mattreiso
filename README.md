@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Mg Gestões e Serviços Administrativos as a Financial and Data Analyst
 - 🌱 Studying Machine Learning
-- 👯 I’m looking to collaborate on new projects to aprimorate my abilities with python
+- 👯 I’m looking to collaborate on new projects to aprimorate my abilities
 - 📫 How to reach me: mateusreisoliveira@gmail.com
 
 <div align="center">
